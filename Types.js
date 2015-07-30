@@ -1,1 +1,2 @@
-export const POST_ADDED = "POST_ADDED";
+export const POSTS_LOADED = "POSTS_LOADED";
+export const POSTS_LOAD_FAILED = "POSTS_LOAD_FAILED";
