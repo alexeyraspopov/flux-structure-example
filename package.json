@@ -1,0 +1,19 @@
+{
+  "name": "flux-structure-example",
+  "version": "1.0.0",
+  "description": "Example of app structure that uses Flux",
+  "main": "index.js",
+  "repository": "alexeyraspopov/flux-structure-example",
+  "keywords": [
+    "flux",
+    "architecture",
+    "boilerplate",
+    "structure"
+  ],
+  "author": "Alexey Raspopov",
+  "license": "MIT",
+  "dependencies": {
+    "flux": "^2.0.3",
+    "flux-stateful": "^0.3.0"
+  }
+}
